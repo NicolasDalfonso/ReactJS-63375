@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "titulo": "Camiseta Real Madrid 2024",
+        "descripcion": "Camiseta oficial temporada 2024, diseño moderno y elegante.",
+        "categoria": "moderna",
+        "imagen": "http://dummyimage.com/200x100.png/ffffff/000000",
+        "precio": 2000,
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "titulo": "Camiseta Barcelona 2024",
+        "descripcion": "Camiseta oficial temporada 2024, tecnología Dri-FIT.",
+        "categoria": "moderna",
+        "imagen": "http://dummyimage.com/200x100.png/000000/ffffff",
+        "precio": 2000,
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "titulo": "Camiseta Manchester United Retro 1999",
+        "descripcion": "Camiseta conmemorativa del triplete histórico de 1999.",
+        "categoria": "retro",
+        "imagen": "http://dummyimage.com/200x100.png/ff0000/ffffff",
+        "precio": 3000,
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "titulo": "Camiseta Juventus Retro 1995",
+        "descripcion": "Diseño clásico en blanco y negro de mediados de los 90s.",
+        "categoria": "retro",
+        "imagen": "http://dummyimage.com/200x100.png/ffffff/000000",
+        "precio": 3000,
+        "stock": 10
+    },
+    {
+        "id": 5,
+        "titulo": "Camiseta AC Milan Retro 1994",
+        "descripcion": "Camiseta conmemorativa del título europeo de 1994.",
+        "categoria": "retro",
+        "imagen": "http://dummyimage.com/200x100.png/000000/ff0000",
+        "precio": 3000,
+        "stock": 10
+    },
+    {
+        "id": 6,
+        "titulo": "Camiseta Arsenal Retro 2004",
+        "descripcion": "Camiseta de los invencibles, temporada 2003-2004.",
+        "categoria": "retro",
+        "imagen": "http://dummyimage.com/200x100.png/ffffff/0000ff",
+        "precio": 3000,
+        "stock": 10
+    },
+    {
+        "id": 7,
+        "titulo": "Camiseta Liverpool Retro 1984",
+        "descripcion": "Camiseta utilizada en la final de la Copa de Europa.",
+        "categoria": "retro",
+        "imagen": "http://dummyimage.com/200x100.png/ff0000/ffffff",
+        "precio": 3000,
+        "stock": 10
+    },
+    {
+        "id": 8,
+        "titulo": "Camiseta Bayern Múnich Retro 1974",
+        "descripcion": "Diseño icónico del título europeo de 1974.",
+        "categoria": "retro",
+        "imagen": "http://dummyimage.com/200x100.png/ff0000/ffffff",
+        "precio": 3000,
+        "stock": 10
+    },
+    {
+        "id": 9,
+        "titulo": "Camiseta Inter de Milán Retro 2010",
+        "descripcion": "Camiseta conmemorativa del triplete de 2010.",
+        "categoria": "retro",
+        "imagen": "http://dummyimage.com/200x100.png/0000ff/000000",
+        "precio": 3000,
+        "stock": 10
+    },
+    {
+        "id": 10,
+        "titulo": "Camiseta Chelsea Retro 2012",
+        "descripcion": "Camiseta del primer título europeo del club.",
+        "categoria": "retro",
+        "imagen": "http://dummyimage.com/200x100.png/0000ff/ffffff",
+        "precio": 3000,
+        "stock": 10
+    },
+    {
+        "id": 11,
+        "titulo": "Camiseta PSG 2024",
+        "descripcion": "Camiseta moderna con diseño inspirado en París.",
+        "categoria": "moderna",
+        "imagen": "http://dummyimage.com/200x100.png/ff00ff/ffffff",
+        "precio": 2000,
+        "stock": 10
+    },
+    {
+        "id": 12,
+        "titulo": "Camiseta Tottenham 2024",
+        "descripcion": "Camiseta moderna con tecnología Nike VaporKnit.",
+        "categoria": "moderna",
+        "imagen": "http://dummyimage.com/200x100.png/ffffff/0000ff",
+        "precio": 2000,
+        "stock": 10
+    },
+    {
+        "id": 13,
+        "titulo": "Camiseta Atlético de Madrid 2024",
+        "descripcion": "Camiseta oficial de la temporada 2024 con diseño renovado.",
+        "categoria": "moderna",
+        "imagen": "http://dummyimage.com/200x100.png/ff0000/ffffff",
+        "precio": 2000,
+        "stock": 10
+    },
+    {
+        "id": 14,
+        "titulo": "Camiseta Borussia Dortmund 2024",
+        "descripcion": "Diseño amarillo vibrante, temporada 2024.",
+        "categoria": "moderna",
+        "imagen": "http://dummyimage.com/200x100.png/ffff00/000000",
+        "precio": 2000,
+        "stock": 10
+    },
+    {
+        "id": 15,
+        "titulo": "Camiseta Napoli Retro 1987",
+        "descripcion": "Camiseta icónica de la era de Maradona.",
+        "categoria": "retro",
+        "imagen": "http://dummyimage.com/200x100.png/0000ff/ffffff",
+        "precio": 3000,
+        "stock": 10
+    },
+    {
+        "id": 16,
+        "titulo": "Camiseta Ajax Retro 1971",
+        "descripcion": "Camiseta conmemorativa del primer título europeo.",
+        "categoria": "retro",
+        "imagen": "http://dummyimage.com/200x100.png/ffffff/ff0000",
+        "precio": 3000,
+        "stock": 10
+    },
+    {
+        "id": 17,
+        "titulo": "Camiseta Celtic Retro 1967",
+        "descripcion": "Camiseta del equipo ganador de la Copa de Europa.",
+        "categoria": "retro",
+        "imagen": "http://dummyimage.com/200x100.png/00ff00/ffffff",
+        "precio": 3000,
+        "stock": 10
+    },
+    {
+        "id": 18,
+        "titulo": "Camiseta Rangers Retro 1972",
+        "descripcion": "Diseño azul clásico de la Recopa de Europa.",
+        "categoria": "retro",
+        "imagen": "http://dummyimage.com/200x100.png/0000ff/ffffff",
+        "precio": 3000,
+        "stock": 10
+    },
+    {
+        "id": 19,
+        "titulo": "Camiseta Sevilla Retro 2006",
+        "descripcion": "Camiseta del primer título de la UEFA Europa League.",
+        "categoria": "retro",
+        "imagen": "http://dummyimage.com/200x100.png/ffffff/000000",
+        "precio": 3000,
+        "stock": 10
+    },
+    {
+        "id": 20,
+        "titulo": "Camiseta Roma Retro 1983",
+        "descripcion": "Camiseta conmemorativa del título de Serie A.",
+        "categoria": "retro",
+        "imagen": "http://dummyimage.com/200x100.png/ff0000/ffffff",
+        "precio": 3000,
+        "stock": 10
+    }
+]
